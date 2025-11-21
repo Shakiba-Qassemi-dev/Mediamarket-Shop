@@ -1,6 +1,6 @@
 # Mediamarket-Shop
 Mediamarket-Shop
-![Image](https://github.com/user-attachments/assets/887a0cb8-45b4-4ed7-b55e-78ac01ff0da0)
+![Image](https://github.com/user-attachments/assets/e5289d28-f36b-4daa-9c99-afa4de07355b)
 - [Demo Project](https://mediamarket-shop-6s4c.vercel.app/)
 
 -👩‍💻 Developed by shakiba qassemi
